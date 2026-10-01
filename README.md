@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/kineid-banner-3000x1000.png" alt="KineID - DX" width="100%" />
+</p>
+
 # KineID
 
 Organisasi untuk proyek pengembangan **AnimK** (aplikasi streaming anime berbasis Android) dan tool pendukungnya.
