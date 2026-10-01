@@ -1,23 +1,5 @@
-<p align="center">
-  <img src="./assets/kineid-banner-3000x1000.png" alt="KineID - DX" width="100%" />
-</p>
+# KineID `/.github`
 
-# KineID
+Repo ini menyimpan README profil organisasi di [`profile/README.md`](./profile/README.md) dan aset pendukungnya di [`assets/`](./assets/).
 
-Organisasi untuk proyek pengembangan **AnimK** (aplikasi streaming anime berbasis Android) dan tool pendukungnya.
-
-## Proyek Utama
-
-| Repo | Deskripsi |
-|------|-----------|
-| [AnimK](https://github.com/KineID/AnimK) | Aplikasi streaming anime Android (Kotlin/Jetpack Compose) |
-
-## Konvensi
-
-- Kontribusi via pull request, wajib review sebelum merge
-- Commit mengikuti [Conventional Commits](https://www.conventionalcommits.org/id/)
-- Secret tidak pernah disimpan di repo; gunakan GitHub Actions secrets
-
-## Kontak
-
-Buka [diskusi](https://github.com/orgs/KineID/discussions) atau mention [@MyKineID](https://github.com/MyKineID).
+> README profil org harus berada di `profile/README.md` agar tampil pada halaman organisasi — README di root hanya tampil di halaman repo ini.
